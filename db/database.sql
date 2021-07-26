@@ -1,5 +1,5 @@
 --Create Database
-CREATE DATABASE db_Ravn_challenge;
+CREATE DATABASE db_ravn_challenge;
 
 --Create tables
 CREATE TABLE authors (
